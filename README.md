@@ -1,15 +1,14 @@
-<p align="left">          </p>
+<p align="left"></p>
 
 ###
 
-<h1 align="left">Hi 👋, I'm Piyush</h1>
+<h1 align="left">Hi 👋, I'm Piyush <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 ###
 
-<img align="right" height="146" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"  />
+<img align="right" height="161" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"  />
 
 ###
-
 
 <div align="left">
   <a href="https://www.linkedin.com/in/piyush4444/" target="_blank">
@@ -23,7 +22,8 @@
   </a>
 </div>
 
-###
+<br>
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -49,20 +49,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
 
-###
+<br clear="both">
 
-<p align="center"></p>
+<br clear="both">
 
-###
+<br clear="both">
 
-<p align="center"></p>
 
-###
 
-<p align="center"></p>
-<br>
-<br>
-###
+
+
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyush4444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -70,26 +69,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush4444&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<p align="center"></p>
 
-###
 
-<p align="center"></p>
-
-###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Piyush4444/Piyush4444/output/snake.svg" alt="Snake animation" />
 
-###
-
-<p align="left">             </p>
-
-###
-
-<p align="left">             </p>
-
-###
+<br clear="both">
