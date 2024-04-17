@@ -1,11 +1,8 @@
-
-
-###
-
-# Hi, I'm Piyush <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
-###
 <img align="right" height="146" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"  />
+
+###
+
+<h1 align="left" width="50">Hi 👋, I'm Piyush <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 ###
 
@@ -73,3 +70,4 @@
 
 <img src="https://raw.githubusercontent.com/Piyush4444/Piyush4444/output/snake.svg" alt="Snake animation" />
 
+###
