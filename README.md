@@ -54,7 +54,7 @@
 
 ###
 
-<p align="center">_______________________________________________________________________________________________________________</p>
+<p align="center"></p>
 
 ###
 
@@ -74,9 +74,17 @@
 
 ###
 
+<p align="center"></p>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Piyush4444/Piyush4444/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left"></p>
 
 ###
 
