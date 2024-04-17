@@ -3,8 +3,10 @@
 </div>
 
 ###
+<div align="center">
 
-<h3 align="center">Hi 👋, I'm Piyush</h3>
+![](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hii+%F0%9F%91%8B%2C+I%27m+Piyush)
+
 
 ###
 
