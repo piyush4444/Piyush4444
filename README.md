@@ -9,7 +9,8 @@
 <img align="right" height="146" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"  />
 
 ###
-<br>
+
+
 <div align="left">
   <a href="https://www.linkedin.com/in/piyush4444/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="34" alt="linkedin logo"  />
@@ -59,7 +60,8 @@
 ###
 
 <p align="center"></p>
-
+<br>
+<br>
 ###
 
 <div align="center">
