@@ -1,14 +1,15 @@
 <div align="center">
-  <img height="185" src="https://camo.githubusercontent.com/127298714375cc05adb5cba46747c271a69d0a7208954d5db93650ba2f5b34ce/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067"  />
+  <img height="185" src="bck.gif"  />
 </div>
 
 ###
-<div align="right">
 
-![](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&size=25&pause=1000&width=435&lines=Hii+%F0%9F%91%8B%2C+I%27m+Piyush)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&pause=1000&color=002B62&center=true&vCenter=true&random=false&width=435&lines=Hii+%F0%9F%91%8B%2C+I'm+Piyush)](https://git.io/typing-svg)
 
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/piyush4444/" target="_blank">
