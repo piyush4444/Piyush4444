@@ -2,9 +2,8 @@
 
 ###
 
-<h1 align="left">Hi 👋, I'm Piyush <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1> 
+<h3 align="left">Hi 👋, I'm Piyush</h3>
 
----
 ###
 
 <div align="left">
@@ -56,14 +55,12 @@
 ###
 
 <p align="center"></p>
-<br>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyush4444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=radical&hide_border=false&order=2" height="157" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Piyush4444&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="157" alt="streak graph"  />
-  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush4444&radius=16&theme=redical&area=true&order=5&custom_title=Activity" height="269" alt="activity-graph graph"  />
 </div>
 
