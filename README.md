@@ -1,8 +1,11 @@
-<img align="right" height="146" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"  />
+
 
 ###
 
 # Hi, I'm Piyush <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+###
+<img align="right" height="146" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif"  />
 
 ###
 
