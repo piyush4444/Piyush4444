@@ -1,8 +1,8 @@
-<p align="left"> </p>
+<p align="left"></p>
 
 ###
 
-<h1 align="left">Hi 👋, I'm Piyush <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="left">Hi 👋, I'm Piyush</h1>
 
 ###
 
@@ -50,11 +50,11 @@
 
 ###
 
-<p align="left"> </p>
+<p align="left"></p>
 
 ###
 
-<p align="left"> </p>
+<p align="center">-----------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<p align="left"> </p>
+<p align="center">-----------------------------------------------------------------------------------------------------------------------</p>
 
 ###
 
@@ -76,6 +76,6 @@
 
 ###
 
-<p align="left"> </p>
+<p align="left"></p>
 
 ###
